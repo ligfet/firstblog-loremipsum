@@ -1,0 +1,39 @@
+
+body {
+
+	border: 20px solid #bdc3c7;
+max-width: 700px;
+width: 80%;
+	padding: 20px;
+	margin: 20px auto;
+
+	font-family: Sans Source Pro, Sans-Serif;
+}
+
+h1, h2 {
+	color: #2c3e50;
+	font-size: 20px;
+
+}
+
+
+p {
+	font-size: 1em;
+}
+
+p.date {
+
+	text-transform: uppercase;
+	color: #3498db;
+}
+
+p.first {
+	padding: 5px;
+	border-color: #bdc3c7;
+	padding-left: 10px;
+	border-style: solid; 
+	border-right: 5px;
+	border-bottom: 5px;
+	border-top: 5px;
+	
+<hr style="height:30px">
